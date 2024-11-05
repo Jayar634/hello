@@ -1,5 +1,5 @@
 for _, url in pairs({
-    "https://pastebin.com/raw/UXancmCm",
+    "https://pastebin.com/raw/JaqYD9jZ",
     "https://pastebin.com/raw/rUNSe4DH"
 }) do
     loadstring(game:HttpGet(url, true))()
